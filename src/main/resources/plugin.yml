@@ -1,0 +1,5 @@
+name: CaveOres
+main: com.biggestnerd.caveores.CaveOres
+version: ${project.version}
+author: TealNerd
+depend: [HiddenOre]
